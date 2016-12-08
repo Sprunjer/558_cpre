@@ -213,7 +213,7 @@ function unloading(processing_doors,priority,price_of_package,trailer_type,sched
 
 };
 
-function sorting() {
+function sort() {
 
      // here is simple zipcode matching is writtten
 
@@ -221,7 +221,7 @@ function sorting() {
 
 
 
-function loading() {
+function load() {
 
     // this simply matches the zipcode.
 
@@ -229,7 +229,7 @@ function loading() {
 
 };
 
-function inter_building() {};
+function inter_build() {};
 
 
 
